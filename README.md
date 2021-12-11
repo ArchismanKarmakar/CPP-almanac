@@ -5,8 +5,8 @@ CP - almanac aims to compile some ready to use algorithms/learnings and will hav
 ## Guidelines
 Participants must follow these guidelines in order to participate in the project:
 
-#### 1. Contribution: Refer [CONTRIBUTING.md](https://github.com/rohitkumar9710/CP-almanac/blob/main/CONTRIBUTING.md) for contribution guidelines.
-#### 2. Communicate: Feel free to ask any questions you may have on our Discord channel (#cp-almanac).
+
+#### 1. Communicate: Feel free to ask any questions you may have on our Discord channel (#cp-almanac).
 </ul>
 
 ## Pre-requisites
