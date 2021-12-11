@@ -6,8 +6,7 @@ CP - almanac aims to compile some ready to use algorithms/learnings and will hav
 Participants must follow these guidelines in order to participate in the project:
 
 
-#### 1. Communicate: Feel free to ask any questions you may have on our Discord channel (#cp-almanac).
-</ul>
+
 
 ## Pre-requisites
 <ul>
